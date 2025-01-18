@@ -16,7 +16,7 @@
             </p>
         </header>
         <section class="skills">
-            <h2>Things I code with</h2>
+            <h2>My Tech Stack</h2>
             <div class="tech-stack">
                 <span>C</span>
                 <span>C++</span>
