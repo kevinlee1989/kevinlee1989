@@ -44,8 +44,6 @@
             </div>
         </section>
         <section class="projects">
-            <h2>Open source projects</h2>
-            <!-- Add your projects here -->
         </section>
     </div>
 </body>
