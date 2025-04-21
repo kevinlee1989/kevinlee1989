@@ -4,10 +4,11 @@
 - 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea currently living in San Diego, US
 - 🔭I'm a student at UCSD majoring Computer Science.
 - 💬I'm currently working on making IOS app using swift/firebase.
+- 📫 How to reach me: Email: kjmin99999@gmail.com 
 
 # Skill Stack
 ```
-cout << *C++* << endl;
+cout << C++ << endl;
 printf("C"\n);
 console.log("Java Script");
 print("Python")
