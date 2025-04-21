@@ -1,5 +1,5 @@
 # 😎 Hey! Nice to see you.
-## Welcome to my page! 
+**Welcome to my page** 
 - 👯I currently work as a Software Engineer at GYB business.
 - 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea currently living in San Diego, US
 - 🔭I'm a student at UCSD majoring Computer Science.
