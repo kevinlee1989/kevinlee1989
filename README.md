@@ -7,31 +7,26 @@ Welcome to my page!
 
 # Skill Stack
 ```
-cout << C << endl;
+cout << C++ << endl;
+printf("C"\n);
+console.log("Java Script");
+print("Python")
+res.send("Express.js")
+socket.send("WebSocket")
+SELET 'MySQL';
+console.log("React")
+console.log("TypeScript")
+git status
+console.log("NestJS")
+console.log("Node.JS")
+<p>HTML5!</p>
 ```
+#Tech Stack
+- AWS Service
+- Firebase
+- Pytorch
+- MongoDB
+- Vercel
+- Postman
             
-
-                <span>C</span>
-                <span>C++</span>
-                <span>JavaScript</span>
-                <span>Phython</span>
-                <span>CSS 3</span>
-                <span>Pytorch</span>
-                <span>firebase</span>
-                <span>Express.js</span>
-                <span>Websocket</span>
-                <span>Vercel</span>
-                <span>MySQL</span>
-                <span>firebase</span>
-                <span>React</span>
-                <span>Docker</span>
-                <span>Github Actions</span>
-                <span>TypeScript</span>
-                <span>Git</span>
-                <span>NestJS</span>
-                <span>Angular</span>
-                <span>HTML5</span>
-                <span>Prettier</span>
-                <span>MongoDB</span>
-                <span>Node.js</span>
 
