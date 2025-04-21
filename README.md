@@ -4,12 +4,13 @@ Welcome to my page!
 - 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea currently living in San Diego, US
 - 🔭I'm a student at UCSD majoring Computer Science.
 - 💬I'm currently working on making IOS app using swift/firebase.
-                
+
+# Skill Stack
+```
+cout << C << endl;
+```
             
-        </header>
-        <section class="skills">
-            <h2>My Tech Stack</h2>
-            <div class="tech-stack">
+
                 <span>C</span>
                 <span>C++</span>
                 <span>JavaScript</span>
@@ -33,10 +34,4 @@ Welcome to my page!
                 <span>Prettier</span>
                 <span>MongoDB</span>
                 <span>Node.js</span>
-            </div>
-        </section>
-        <section class="projects">
-        </section>
-    </div>
-</body>
-</html>
+
