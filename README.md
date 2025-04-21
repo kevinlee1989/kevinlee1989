@@ -7,7 +7,7 @@
 
 # Skill Stack
 ```
-cout << C++ << endl;
+cout << *C++* << endl;
 printf("C"\n);
 console.log("Java Script");
 print("Python")
