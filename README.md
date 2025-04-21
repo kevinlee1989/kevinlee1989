@@ -1,23 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>😎 Hey! Nice to see you.</h1>
-            <p>
-                Welcome to my page! <br>
-                - 👯I currently work as a Software Engineer at GYB business.
-                - 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea
-                currently living in San Diego, US
-                - 🔭I'm a student at UCSD majoring Computer Science.
-                - 💬I'm currently working on making IOS app using swift/firebase.
+# 😎 Hey! Nice to see you.
+Welcome to my page! 
+- 👯I currently work as a Software Engineer at GYB business.
+- 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea currently living in San Diego, US
+- 🔭I'm a student at UCSD majoring Computer Science.
+- 💬I'm currently working on making IOS app using swift/firebase.
                 
-            </p>
+            
         </header>
         <section class="skills">
             <h2>My Tech Stack</h2>
