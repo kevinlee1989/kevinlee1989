@@ -11,8 +11,12 @@
             <h1>😎 Hey! Nice to see you.</h1>
             <p>
                 Welcome to my page! <br>
-                I'm <strong>Kevin</strong>, Fullstack developer from Korea
+                - 👯I currently work as a Software Engineer at GYB business.
+                - 🤔I'm <strong>Kevin</strong>, Fullstack developer from Korea
                 currently living in San Diego, US
+                - 🔭I'm a student at UCSD majoring Computer Science.
+                - 💬I'm currently working on making IOS app using swift/firebase.
+                
             </p>
         </header>
         <section class="skills">
